@@ -1,0 +1,6 @@
+# @package _global_
+#single run, path = ../../../../../datasets/airlines/airlines.csv
+dataset:
+  name: airlines
+  path: ../../../../datasets/airlines/airlines.csv
+  target_col: Delay

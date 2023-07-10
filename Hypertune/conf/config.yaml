@@ -1,0 +1,11 @@
+# @package _global_
+defaults:
+  - algorithm: xgboost
+  - dataset: eye_movement
+  - sampler: rand
+  - framework: hyperopt
+hydra:
+  sweep:
+    dir: multirun
+    subdir: ${hydra.job.override_dirname}
+ 
