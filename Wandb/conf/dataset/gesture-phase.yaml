@@ -2,5 +2,5 @@
 #for single run => path: ../../../../../datasets/gesture-phase/gesture-phase.csv
 dataset:
   name: gesture-phase
-  path: ../../datasets/gesture-phase.csv
+  path: ./datasets/gesture-phase.csv
   target_col: phase
