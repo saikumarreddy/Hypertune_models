@@ -1,5 +1,5 @@
 # @package _global_
 dataset:
   name: eye_movement
-  path: ../../datasets/eye_movements.csv
+  path: ./datasets/eye_movements.csv
   target_col: label
