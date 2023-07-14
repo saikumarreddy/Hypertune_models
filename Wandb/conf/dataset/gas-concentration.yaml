@@ -1,5 +1,5 @@
 # @package _global_
 dataset:
   name: gas-concentration
-  path: ../../datasets/gas-concentration.csv
+  path: ./datasets/gas-concentration.csv
   target_col: Class
