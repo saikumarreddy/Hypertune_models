@@ -2,5 +2,5 @@
 #single run, path = ../../../../../datasets/airlines/airlines.csv
 dataset:
   name: airlines
-  path: ../../datasets/airlines.csv
+  path: ./datasets/airlines.csv
   target_col: Delay
